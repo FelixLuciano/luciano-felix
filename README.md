@@ -1,3 +1,3 @@
 # Luciano Felix
 
-This brand represents the beginning.
+This brand represents solidity.
