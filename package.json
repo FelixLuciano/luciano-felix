@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "optimize": "npx svgo -f assets --pretty --indent=2"
+  }
+}
